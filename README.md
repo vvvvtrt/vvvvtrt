@@ -44,6 +44,16 @@
 
 <br/>  
 
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://t.me/vvvvtrt" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/mike1603" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
 ## Github статистика  
 <table><tr><td valign="top" width="50%">

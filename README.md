@@ -1,7 +1,15 @@
 ## Привет👋 Меня зовут Михаил!  
-  
 
-
+<div align="center">  
+  <div id="badges">
+    <a href="https://t.me/vvvvtrt" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/mike1603" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+</div> 
 
 ### 👩‍💻Обо мне  
 Я начинающий Backend-разработчик. Мой путь в it начался с кружка робототехники в школе. После пробовал себя во многих направлениях, изучал языки программирования: С, С++, Python, Go, пробовал свои силы в data science. С сентября 2023 года я начал участвовать в хакатонах в качестве Backend-разработчика, где я реализовывал разные сервисы на FastAPI, Flask, Go. В настоящий момент я активно участвую в хакатонах и побеждаю в некоторых из них.  
@@ -42,18 +50,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>  
 
-<br/>  
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/vvvvtrt" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/mike1603" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+<br/>   
 
 ## Github статистика  
 <table><tr><td valign="top" width="50%">

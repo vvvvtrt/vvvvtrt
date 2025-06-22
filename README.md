@@ -1,6 +1,6 @@
 # Михаил Чашин
 
-**Robotic Software Engineer**
+**Robotic Software Engineer (СБЕР)**
 
 [GitHub](https://github.com/vvvvtrt) • [Telegram](https://t.me/vvvvtrt) • mike1603@yandex.ru
 

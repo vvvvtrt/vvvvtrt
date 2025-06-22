@@ -1,76 +1,83 @@
-## Привет👋 Меня зовут Михаил!  
+# Михаил Чашин
 
-<div align="center">  
-  <div id="badges">
-    <a href="https://t.me/vvvvtrt" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/mike1603" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-</div> 
+**Robotic Software Engineer**
 
-### 👩‍💻Обо мне  
-Я начинающий разработчик. Мой путь в IT начался с кружка робототехники в школе. Позже пробовал себя во многих направлениях, изучал языки программирования: С, С++, Python, сейчас пробую свои силы в машинном обучении. С сентября 2023 года  начал участвовать в хакатонах в качестве Backend-разработчика, где  реализовывал разные сервисы на FastAPI, Flask, Go. В настоящий момент активно участвую в хакатонах и побеждаю в некоторых из них.
-  
+[GitHub](https://github.com/vvvvtrt) • [Telegram](https://t.me/vvvvtrt) • mike1603@yandex.ru
 
-<br/>  
+---
 
-- 🌱 Изучаю NLP, LLM.
-  
+## Обо мне
 
-- ❓ Имею опыт разработки в других IT-сферах по мимо Backend, в таких как: Telegram Bots, ML, Frontend.
+👋 Привет! Меня зовут Михаил. Я — инженер-разработчик, специализируюсь на программном обеспечении для роботов, ML/AI-сервисах и backend-разработке.  
+Учусь в НИТУ МИСИС на направлении «Информатика и вычислительная техника» (2023–2027).  
+Люблю создавать инновационные решения, учиться новому и делиться опытом.
 
+Бэкграунд включает робототехнику, машинное обучение, участие в многочисленных хакатонах (от ML до разработки сервисов для бизнеса и медицины), олимпиадах и олимпиадных движениях.
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+---
 
+## 🛠️ Технологии и навыки
 
-</td></tr></table>  
+- **Языки:** Python (numpy, pandas, sklearn, PyTorch, langchain), C++ (STL)
+- **ML/AI:** RAG Fusion, LLM, transformers, NER, CatBoost
+- **Backend:** FastAPI, Flask, aiogram, telebot
+- **Базы данных:** PostgreSQL, SQLite
+- **DevOps:** Docker, Linux, bash
+- **Инструменты:** Selenium, BeautifulSoup4, pyttsx3, Speech Recognition, PyQt5, Git
 
-<br/>  
+---
 
+## 🚀 Проекты
 
-## Языки и фреймворки  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>  
+- [🤖 Tender Hack Assistant](https://github.com/Ivan-Knyazev/TenderHack_2025_Made_in_MISIS)  
+  LLM-ассистент для поддержки пользователей портала.  
+  *ML-разработка (RAG Fusion, bm25, интеграция qwen2.5:14b), FastAPI.*
 
-<br/>   
+- [💼 T1 Hackathon Assistant](https://github.com/vvvvtrt/T1_Hackathon/tree/main/app)  
+  LLM-ассистент для бизнеса с загрузкой пользовательских баз знаний.  
+  *ML-разработка, RAG Fusion, llama-3.*
 
-## Github статистика  
-<table><tr><td valign="top" width="50%">
+- [🌆 Parser_NER](https://github.com/vvvvtrt/Parser_NER)  
+  Парсер сайтов с поиском информации о местах в городе (NER, LLM, Selenium, FastAPI).
 
-<img src="https://github-readme-stats.vercel.app/api?username=vvvvtrt&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+- [🛒 Генерация CTE (Tender Hack)](https://github.com/vvvvtrt/Tender_hack)  
+  Генерация и классификация CTE по товарам.  
+  *Backend, ML (NER/spacy, GPT), FastAPI.*
 
-</td><td valign="top" width="50%">
+- [📉 Churn Prediction](https://github.com/vvvvtrt/Churn_prediction)  
+  ML для предсказания оттока пользователей.  
+  *ROC-AUC: 0.84760 (CatBoost).*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvvvtrt&hide_border=true&layout=compact" align="left" style="width: 100%" />
+- [🗣️ Браузер с голосовым управлением](https://github.com/vvvvtrt/Browser_voice_controlled)  
+  Доступный браузер с голосовым управлением (PyQt5, Speech Recognition, BeautifulSoup4).
 
-</td></tr></table>  
+- [🩺 Сервис для врачей “Спина-бифида”](https://github.com/vvvvtrt/Spina_Bifida)  
+  Backend-сервис для хранения и управления медицинскими данными.  
+  *3 место на хакатоне, FastAPI, SQL.*
 
-<br/>  
+---
 
-  
+## 🏆 Достижения
 
-<br/>  
+- 3 место — Гагарин хакатон, трек «Венера»
+- 3 место — хакатон «Код со смыслом»
+- Топ-40 — ВТБ More Tech 5.0 METAVERSE
+- 3 место и финалист — ITAM.hack, «Моя профессия — ИТ»
+- Победитель — Всероссийская олимпиада МГТУ им. Баумана «Шаг в будущее», инженерное дело
+- Призёр — командная олимпиада «Высшая проба» (НИУ ВШЭ)
+- Призёр — региональный этап Всероссийской олимпиады школьников по информатике (2021–2023)
+- Победитель — региональный этап по информационной безопасности (2022–2023)
+- Призёр — региональный этап по робототехнике (2020–2021)
 
-  
+---
 
-<br/>  
+## ⚡ Немного обо мне
 
+- Ранее занимался робототехникой: разрабатывал роботов, умные электростанции, системы дистанционного управления
+- Активный участник хакатонов и олимпиад в разных IT-направлениях
+- Люблю пробовать новые инструменты, делаю pet-проекты
+- В свободное время играю на гитаре
 
-<br />
+---
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**Всегда открыт к новым интересным задачам и сотрудничеству!**

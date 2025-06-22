@@ -18,7 +18,7 @@
 
 ## 🛠️ Технологии и навыки
 
-- **Языки:** Python (numpy, pandas, sklearn, PyTorch, langchain), C++ (STL)
+- **Языки:** Python (numpy, pandas, sklearn, PyTorch, langchain), C++ 
 - **ML/AI:** RAG Fusion, LLM, transformers, NER, CatBoost
 - **Backend:** FastAPI, Flask, aiogram, telebot
 - **Базы данных:** PostgreSQL, SQLite
@@ -80,4 +80,3 @@
 
 ---
 
-**Всегда открыт к новым интересным задачам и сотрудничеству!**

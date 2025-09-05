@@ -1,7 +1,5 @@
 # Михаил Чашин
 
-**Robotic Software Engineer (СБЕР)**
-
 [GitHub](https://github.com/vvvvtrt) • [Telegram](https://t.me/vvvvtrt) • mike1603@yandex.ru
 
 ---
@@ -16,12 +14,23 @@
 
 ---
 
+## 💼 Комерческий опыт 
+**Robotic Software Engineer в СБЕР** с 28.04.2025 по 28.07.2025
+ - Разработка сервисов для робота и веб части на FastAPI и ROS2
+ - Работа с брокером Kafka
+ - Работа с PostgreSQL, S3 и Redis
+ - Запуск и тестирование робота
+ - Написание unit-тестов
+ - Разработка сценариев для робота в IsaacSIM
+
+---
+
 ## 🛠️ Технологии и навыки
 
-- **Языки:** Python (numpy, pandas, sklearn, PyTorch, langchain), C++ 
-- **ML/AI:** RAG Fusion, LLM, transformers, NER, CatBoost
-- **Backend:** FastAPI, Flask, aiogram, telebot
-- **Базы данных:** PostgreSQL, SQLite
+- **Языки:** Python, C++ 
+- **ML/AI:** ML classic, RAG Fusion, LLM, transformers, CatBoost, sklearn, PyTorch, langchain
+- **Backend:** FastAPI, Flask, aiogram, telebot, Kafka
+- **Базы данных:** PostgreSQL, SQLite, S3, Redis
 - **DevOps:** Docker, Linux, bash
 - **Инструменты:** Selenium, BeautifulSoup4, pyttsx3, Speech Recognition, PyQt5, Git
 
